@@ -1,0 +1,355 @@
+```html
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Esther Keïpo | Créatrice de contenu & Modèle photo</title>
+
+    <meta name="description"
+          content="Découvrez l'univers d'Esther Keïpo, créatrice de contenu et modèle photo ivoirienne passionnée par la mode, la photographie et la beauté.">
+
+    <link rel="stylesheet" href="style.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:wght@500;600;700&display=swap"
+          rel="stylesheet">
+</head>
+
+<body>
+
+<header class="navbar">
+
+    <a href="#accueil" class="logo">EK.</a>
+
+    <nav>
+        <a href="#apropos">À propos</a>
+        <a href="#univers">Mon univers</a>
+        <a href="#parcours">Parcours</a>
+        <a href="#contact">Contact</a>
+    </nav>
+
+</header>
+
+
+<main>
+
+    <!-- ACCUEIL -->
+
+    <section id="accueil" class="hero">
+
+        <div class="hero-content">
+
+            <p class="small-title">BIENVENUE DANS MON UNIVERS</p>
+
+            <h1>
+                Esther<br>
+                <span>Keïpo</span>
+            </h1>
+
+            <p class="subtitle">
+                Créatrice de contenu · Modèle photo
+            </p>
+
+            <p class="intro">
+                Passionnée par la mode, la photographie, la beauté
+                et l'univers de l'image.
+            </p>
+
+            <div class="buttons">
+
+                <a href="#apropos" class="button primary">
+                    Découvrir mon univers
+                </a>
+
+                <a href="#contact" class="button secondary">
+                    Me contacter
+                </a>
+
+            </div>
+
+        </div>
+
+        <div class="hero-decoration">
+            <span>ESTHER</span>
+            <span>KEÏPO</span>
+        </div>
+
+    </section>
+
+
+    <!-- A PROPOS -->
+
+    <section id="apropos" class="section">
+
+        <div class="section-title">
+
+            <p>01 — À PROPOS</p>
+
+            <h2>
+                Une histoire,<br>
+                une identité.
+            </h2>
+
+        </div>
+
+        <div class="section-content">
+
+            <p class="lead">
+                Esther Keïpo, de son nom complet
+                <strong>Keipo Dora Grâce Esther</strong>,
+                est une jeune Ivoirienne née le
+                <strong>27 octobre 2006 à Abidjan</strong>,
+                en Côte d'Ivoire.
+            </p>
+
+            <p>
+                Créatrice de contenu et modèle photo, elle s'intéresse
+                particulièrement à la mode, à la photographie,
+                à la beauté et à l'univers de l'image.
+            </p>
+
+            <p>
+                À travers ses activités sur les réseaux sociaux,
+                Esther développe progressivement son propre univers
+                autour de la mode, de la photographie et de la
+                création de contenu.
+            </p>
+
+        </div>
+
+    </section>
+
+
+    <!-- UNIVERS -->
+
+    <section id="univers" class="section dark">
+
+        <div class="section-title">
+
+            <p>02 — MON UNIVERS</p>
+
+            <h2>
+                Créer.<br>
+                Inspirer.<br>
+                Évoluer.
+            </h2>
+
+        </div>
+
+        <div class="cards">
+
+            <article class="card">
+
+                <span class="number">01</span>
+
+                <h3>Mode</h3>
+
+                <p>
+                    La mode est un espace d'expression et de créativité
+                    qui permet de mettre en valeur une identité.
+                </p>
+
+            </article>
+
+
+            <article class="card">
+
+                <span class="number">02</span>
+
+                <h3>Photographie</h3>
+
+                <p>
+                    L'image permet de raconter une histoire,
+                    transmettre une émotion et créer un univers.
+                </p>
+
+            </article>
+
+
+            <article class="card">
+
+                <span class="number">03</span>
+
+                <h3>Beauté</h3>
+
+                <p>
+                    La beauté et l'esthétique occupent une place
+                    importante dans mon univers créatif.
+                </p>
+
+            </article>
+
+
+            <article class="card">
+
+                <span class="number">04</span>
+
+                <h3>Création de contenu</h3>
+
+                <p>
+                    Je développe progressivement ma présence digitale
+                    à travers mes contenus et mes projets.
+                </p>
+
+            </article>
+
+        </div>
+
+    </section>
+
+
+    <!-- PARCOURS -->
+
+    <section id="parcours" class="section">
+
+        <div class="section-title">
+
+            <p>03 — MON PARCOURS</p>
+
+            <h2>
+                Quelques étapes
+                de mon histoire.
+            </h2>
+
+        </div>
+
+
+        <div class="timeline">
+
+            <div class="timeline-item">
+
+                <span class="year">2021</span>
+
+                <div>
+                    <h3>Miss Naturel</h3>
+
+                    <p>
+                        Participation au concours Miss Naturel,
+                        une expérience qui marque mes premiers pas
+                        dans l'univers des concours de beauté
+                        et de l'image.
+                    </p>
+                </div>
+
+            </div>
+
+
+            <div class="timeline-item">
+
+                <span class="year">Aujourd'hui</span>
+
+                <div>
+                    <h3>Création & évolution</h3>
+
+                    <p>
+                        Développement de mon univers autour de la mode,
+                        de la photographie et de la création de contenu.
+                    </p>
+                </div>
+
+            </div>
+
+
+            <div class="timeline-item">
+
+                <span class="year">Demain</span>
+
+                <div>
+                    <h3>De nouveaux projets</h3>
+
+                    <p>
+                        Continuer à évoluer dans le domaine artistique
+                        et digital et donner vie à de nouveaux projets.
+                    </p>
+                </div>
+
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!-- OBJECTIFS -->
+
+    <section class="quote-section">
+
+        <div>
+
+            <span>MON AMBITION</span>
+
+            <h2>
+                Faire évoluer mon image,
+                développer mes projets
+                et construire mon univers.
+            </h2>
+
+        </div>
+
+    </section>
+
+
+    <!-- CONTACT -->
+
+    <section id="contact" class="section contact">
+
+        <div class="section-title">
+
+            <p>04 — CONTACT</p>
+
+            <h2>
+                Restons<br>
+                connectés.
+            </h2>
+
+        </div>
+
+        <div class="contact-content">
+
+            <p>
+                Retrouvez-moi prochainement sur mes réseaux sociaux
+                et découvrez mon univers.
+            </p>
+
+            <div class="socials">
+
+                <!-- Remplace les # par tes vrais liens -->
+
+                <a href="#" target="_blank">Instagram ↗</a>
+
+                <a href="#" target="_blank">TikTok ↗</a>
+
+                <a href="#" target="_blank">Facebook ↗</a>
+
+                <a href="#" target="_blank">GitHub ↗</a>
+
+            </div>
+
+        </div>
+
+    </section>
+
+</main>
+
+
+<footer>
+
+    <p>
+        © 2026 Esther Keïpo.
+        Tous droits réservés.
+    </p>
+
+    <p>
+        Abidjan · Côte d'Ivoire
+    </p>
+
+</footer>
+
+
+</body>
+</html>
+```
